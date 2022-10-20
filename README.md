@@ -2,6 +2,11 @@
 
 I'm a Brazilian Full-Stack Developer based in Manchester, UK.
 
+<a href="https://linkedin.com/in/ismaelpaul">
+  <img align="left" alt="Ismael's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+<br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismaelpaul&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 <!--

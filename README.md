@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a Brazilian Full-Stack Developer based in Manchester, UK.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismaelpaul&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 <!--
 **ismaelpaul/ismaelpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

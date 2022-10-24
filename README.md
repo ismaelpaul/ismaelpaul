@@ -4,8 +4,9 @@ I'm a Brazilian Full-Stack Developer, a recent graduate from [Northcoders](https
 
 ## Projects ##
 
-- [NC News/Backend](https://github.com/ismaelpaul/be-nc-news) - a news aggregator backend API built using RESTful API principles, Node.js, Express.js, PostgreSQL and tested with Jest.
-- [NC News/Frontend](https://github.com/ismaelpaul/fe-nc-news) - a news aggregator frontend built in React as the counterpart to the previous backend project.
+- [NC News/Back-End](https://github.com/ismaelpaul/be-nc-news) - a news aggregator backend API built using RESTful API principles, Node.js, Express.js, PostgreSQL and tested with Jest.
+- [NC News/Front-End](https://github.com/ismaelpaul/fe-nc-news) - a news aggregator frontend built in React as the counterpart to the previous backend project.
+- [Bibliotecg/Full-Stack](https://github.com/defective-pikachu/bibliotech) - a peer-to-peer booklending app built in React Native with Expo, linked to Firebase Firestore database.
 
 ## Tech I've been using ##
 

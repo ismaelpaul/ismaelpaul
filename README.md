@@ -16,7 +16,7 @@ I'm a Brazilian Full-Stack Developer, a recent graduate from [Northcoders](https
 ![Next.js](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-1572B6-white?style=flat-square&logo=SASS)
+![SASS](https://img.shields.io/badge/-SASS-white?style=flat-square&logo=SASS)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)

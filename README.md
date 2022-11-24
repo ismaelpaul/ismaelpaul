@@ -13,6 +13,7 @@ I'm a Brazilian Full-Stack Developer, a recent graduate from [Northcoders](https
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql)
@@ -21,18 +22,13 @@ I'm a Brazilian Full-Stack Developer, a recent graduate from [Northcoders](https
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 
-## Currently learning ##
-
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
-
 
 ## Get in touch ##
 <a href="https://linkedin.com/in/ismaelpaul">
   <img align="left" alt="Ismael's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
  </a>
  
- <a href="mailto:ismaafp@gmail.com">
+ <a href="mailto:dev@ismaelpaul.com">
   <img align="left" alt="Ismael's Email" width="20px" src="https://simpleicons.vercel.app/gmail/EA4335" />
  </a>
  

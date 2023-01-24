@@ -1,12 +1,14 @@
 ## Olá 👋 ##
 
-I'm a Brazilian Full-Stack Developer, a recent graduate from [Northcoders](https://northcoders.com/), based in Manchester, UK. Fast learner and eager to explore new technologies.
+I'm a Brazilian Full-Stack Developer, a graduate from [Northcoders](https://northcoders.com/), based in Manchester, UK. Fast learner and eager to explore new technologies.
 
 ## Projects ##
 
 - [NC News/Back-End](https://github.com/ismaelpaul/be-nc-news) - a news aggregator backend API built using RESTful API principles, Node.js, Express.js, PostgreSQL and tested with Jest.
 - [NC News/Front-End](https://github.com/ismaelpaul/fe-nc-news) - a news aggregator frontend built in React as the counterpart to the previous backend project.
 - [Bibliotech/Full-Stack](https://github.com/defective-pikachu/bibliotech) - a peer-to-peer booklending app built in React Native with Expo, linked to Firebase Firestore database.
+- [Invent/Back-End](https://github.com/ismaelpaul/be-invent) - an inventory backend API built using RESTful API principles, Node.js, Express.js and MongoDB.
+- [Invent/Front-End](https://github.com/ismaelpaul/fe-invent) - an inventory frontend built in React and SASS as the counterpart to the previous backend project. Used Redux for state managment.
 
 ## Tech I've been using ##
 
@@ -14,10 +16,12 @@ I'm a Brazilian Full-Stack Developer, a recent graduate from [Northcoders](https
 ![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js)
+![Redux](https://img.shields.io/badge/-Redux-764abc?&logo=redux)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-white?style=flat-square&logo=SASS)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MONGODB)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)

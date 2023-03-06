@@ -8,7 +8,7 @@ I'm a Brazilian Full-Stack Developer, a graduate from [Northcoders](https://nort
 - [NC News/Front-End](https://github.com/ismaelpaul/fe-nc-news) - a news aggregator frontend built in React as the counterpart to the previous backend project.
 - [Bibliotech/Full-Stack](https://github.com/defective-pikachu/bibliotech) - a peer-to-peer booklending app built in React Native with Expo, linked to Firebase Firestore database.
 - [Invent/Back-End](https://github.com/ismaelpaul/be-invent) - an inventory backend API built using RESTful API principles, Node.js, Express.js and MongoDB.
-- [Invent/Front-End](https://github.com/ismaelpaul/fe-invent) - an inventory frontend built in React and SASS as the counterpart to the previous backend project. Used Redux for state managment.
+- [Invent/Front-End](https://github.com/ismaelpaul/fe-invent) - an inventory frontend built in React and SASS as the counterpart to the previous backend project. Used Redux for state management.
 
 ## Tech I've been using ##
 

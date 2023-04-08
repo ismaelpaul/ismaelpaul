@@ -15,7 +15,7 @@ I'm a Brazilian Software Developer, a graduate from [Northcoders](https://northc
 
 ## Tech I've been using ##
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)

@@ -1,6 +1,6 @@
 ## Olá 👋 ##
 
-I'm a Brazilian Software Developer, a graduate from [Northcoders](https://northcoders.com/), based in Manchester, UK. Fast learner and eager to explore new technologies.
+I'm a Brazilian Software Developer, based in Manchester, UK. Fast learner and eager to explore new technologies.
 
 ## Projects ##
 

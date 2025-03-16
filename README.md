@@ -32,10 +32,7 @@ I'm a Brazilian Software Developer, based in Manchester, UK. Fast learner and ea
 
 
 ## Get in touch ##
-<a href="https://linkedin.com/in/ismaelpaul">
-  <img align="left" alt="Ismael's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
- </a>
- 
+
  <a href="mailto:dev@ismaelpaul.com">
   <img align="left" alt="Ismael's Email" width="20px" src="https://simpleicons.vercel.app/gmail/EA4335" />
  </a>
